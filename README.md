@@ -23,6 +23,9 @@ AdaBoost Results
 ![AB_report](https://github.com/doughj1466/Homework14/assets/145073929/6f4ce4dc-c570-4429-b11c-ecce597db0c3)
 ![AB_results](https://github.com/doughj1466/Homework14/assets/145073929/54fe9b73-7186-4140-bad6-a67ae6070f14)
 
+(Sorry for formatting, I ran out of time to look up how to make this prettier.)
+
+The results are interesting.
 
 
 
