@@ -7,6 +7,23 @@ An algo trading example using machine learning to form predicitions.
 
 The speed of these transactions gave your firm a competitive advantage early on. But, people still need to specifically program these systems, which limits their ability to adapt to new data. You’re thus planning to improve the existing algorithmic trading systems and maintain the firm’s competitive advantage in the market. To do so, you’ll enhance the existing trading signals with machine learning algorithms that can adapt to new data."
 
+![baseline_report](https://github.com/doughj1466/Homework14/assets/145073929/bf9b1926-608c-4946-836e-e3a38876e7c1)
+![baseline_results](https://github.com/doughj1466/Homework14/assets/145073929/d831470b-0407-47dd-886e-887d34b96ac2)
+
+![18mo_report](https://github.com/doughj1466/Homework14/assets/145073929/e77a1b4e-41d3-426d-8928-8b2fb6059430)
+![18mo_results](https://github.com/doughj1466/Homework14/assets/145073929/4fdb0e03-939e-4cc0-b844-8a3c7048e0ee)
+
+
+![sma_change_report](https://github.com/doughj1466/Homework14/assets/145073929/37dfb3b6-3653-47ee-9e55-54aa67f4067b)
+![sma_change_results](https://github.com/doughj1466/Homework14/assets/145073929/3c50924b-939c-42a7-8605-a4f8d2dde7f7)
+
+![AB_report](https://github.com/doughj1466/Homework14/assets/145073929/6f4ce4dc-c570-4429-b11c-ecce597db0c3)
+![AB_results](https://github.com/doughj1466/Homework14/assets/145073929/54fe9b73-7186-4140-bad6-a67ae6070f14)
+
+
+
+
+
 
 
 
