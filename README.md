@@ -25,7 +25,7 @@ AdaBoost Results
 
 (Sorry for formatting, I ran out of time to look up how to make this prettier.)
 
-The results are interesting.
+The results are interesting.  None of the results for overall returns are particularly impressive.  If I was a financial advisor or trader I don't think I would endorse any of these.  Maybe the baseline but I would need to do further analysis of the risk/reward trade off first.  The 18mo training change gave the best precision but as you can see in the graph, this does not necessarily translate to better returns.  The SMA changes did worse and so did the AdaBoost classifier.  This assignment sheds light to how much testing is needed prior to finding a successful candidate for production.
 
 
 
